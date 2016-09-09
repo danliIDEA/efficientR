@@ -94,7 +94,7 @@ Breaking a large project into smaller chunks is highly recommended, making huge,
 local(source("code/04-project-planning_f1.R", local=TRUE))
 ```
 
-The tasks that a project should be split into will depend the nature of the work and the phases illustrated in Figure \@ref(fig:4-1) represent a rough starting point, not a template and the 'programming' phase will usually need to be split into at least 'data tidying', 'processing', and 'visualisation'.
+The tasks that a project should be split into will depend on the nature of the work and the phases illustrated in Figure \@ref(fig:4-1) represent a rough starting point, not a template and the 'programming' phase will usually need to be split into at least 'data tidying', 'processing', and 'visualisation'.
 
 ### Making your workflow SMART {#smart}
 
